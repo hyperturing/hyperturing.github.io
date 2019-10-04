@@ -1,0 +1,3 @@
+Known Issues:
+
+- Background color of etch-a-sketch becomes displaced and is no longer centered at dimensions larger then 34
